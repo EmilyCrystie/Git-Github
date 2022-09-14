@@ -1,6 +1,6 @@
 <div align="center"> 
  <h1> Git, Github </h1>
- <p> Este espaço dá acesso às minhas anotações sobre Git, obtidos com o treinamento Fullstack JavaScript do <a   href="https://go.hotmart.com/V68692158X" target="_blank">OneBitCode</a>, além de incrementos feitos conforme estudo a linguagem em outros canais. </p>
+ <p> Este espaço dá acesso às minhas anotações sobre Git, obtidos com o treinamento Fullstack JavaScript do <a   href="https://go.hotmart.com/V68692158X" target="_blank">OneBitCode</a>, além de incrementos feitos conforme estudo em outros canais. </p>
  <br>
  <p> ➡️ <a href="https://projetoscrystie.notion.site/Git-707afa0a5c3241e39f682c074922eedd" target="_blank"> Acesso ao conteúdo no Notion </a>⬅️</p>
  
